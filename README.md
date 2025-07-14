@@ -1,75 +1,40 @@
-📊 UK Government Education Spending Analysis (1926–1996)
-A complete Excel-based Data Analysis & Dashboard Project to explore how the UK Government's education expenditure evolved over 70 years.
+📊 CEPHA18 – Government Expenditure on Education (1926–1996)
+Dataset Source: data.gov.ie
+Project Type: Data Cleaning, Analysis, Visualization, and Dashboard Design
+Tools Used: Microsoft Excel (Pivot Tables, Charts, Dashboard, Slicers)
 
-🗂️ Project Overview
-This project analyzes historical education expenditure data from 1926 to 1996, highlighting trends, allocations, and spending shifts across different education sectors. The goal was to clean raw data, categorize departments, calculate insights, and design an interactive dashboard.
+📁 Project Overview
+This project explores the historical UK Government Expenditure on Education from the years 1926 to 1996, using the publicly available dataset CEPHA18. It involves cleaning raw data, deriving key metrics, mapping expenditure types into meaningful categories, and building a comprehensive Excel dashboard to summarize the insights.
 
-✅ Objectives
-📥 Clean and preprocess raw education expenditure data
+🎯 Project Objectives
+✅ Clean and organize raw government expenditure data
 
-📊 Create calculated fields: % Share, YoY Change, Status
+✅ Create derived columns (e.g., % share, Total spend by year, amount status)
 
-🏷️ Group education expenditure into categories (e.g., Early, Secondary, Higher Ed, Admin)
+✅ Categorize expenditure into broader labels (Early Education, Secondary, Admin, etc.)
 
-📈 Build Pivot Tables & Charts for trends and distribution
+✅ Analyze spending trends across years and departments
 
-📌 Develop an interactive Excel dashboard
+✅ Build an interactive Excel dashboard with filters & slicers
 
-🧮 Summarize key insights: top/least spending, year trends
-
-📁 Files Included
-File Name	Description
-UK_Education_Spending_1926_1996.xlsx	Cleaned dataset, calculations, Pivot Tables, Dashboard
-Dashboard_Screenshot.png	Snapshot of the final dashboard
-README.md	Project documentation (this file)
-
-📚 Data Source
-Official dataset from UK Government Open Data Portal
-
-Dataset includes department-wise spending records over the years
-
-🛠️ Tools Used
-Microsoft Excel
-
-Data Cleaning
-
-Logical Formulas (IF, ISBLANK, VLOOKUP, TRIM)
-
-Pivot Tables & Pivot Charts
-
-Slicers & Filters
-
-(Optional) PowerPoint to design dashboard mockup
-
-📊 Dashboard Features
-Yearly Education Spend Trends
-
-Top & Least Spending Categories
-
-% Share of Each Education Type
-
-Slicers: Year, Type, Category
-
-KPIs: Total Spend, Highest Year, Most Funded Sector
-
+✅ Highlight top & least spending categories and patterns over decades
 
 📌 Key Insights
-📈 Consistent growth post-WW2 in education investments
+Top Spending Category: Total Gross Expenditure 
 
-🏫 Surge in Secondary and University education funding in the 1980s
+Least Spending Category: Appropriations in Aid (deduct) - Primary Education 
 
-🔄 Early education and administrative funding remained relatively constant
+Total Spend (1926–1996): ~ £47.3 Billion
 
-✨ What I Learned
-Data storytelling using Excel
+📊 Dashboard Highlights
+Interactive slicers for Year and Type of Expenditure
 
-Importance of cleaning and categorizing data
+Clean layout showing:
 
-Pivot chart design and dashboard layout best practices
+% Share by Education Type
 
-💡 Future Scope
-Convert Excel analysis to Power BI / Tableau
+Year-wise Spend Breakdown
 
-Add historical events annotations for context
+Top/Least Categories
 
-Compare spend to GDP or student enrollment trends
+Multiple charts: Column, Bar, and Stacked for visual comparison
