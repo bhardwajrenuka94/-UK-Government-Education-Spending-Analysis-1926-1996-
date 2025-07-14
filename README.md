@@ -38,3 +38,24 @@ Year-wise Spend Breakdown
 Top/Least Categories
 
 Multiple charts: Column, Bar, and Stacked for visual comparison
+
+📥 Dataset Information
+Dataset Name: CEPHA18 – Government Expenditure on Education
+
+Source: data.gov.ie
+
+Format: Excel
+
+Years Covered: 1926 to 1996
+
+Currency: GBP (£)
+
+🤝 Acknowledgments
+Data Source: data.gov.ie
+
+Guided by self-exploration and structured data analysis techniques
+
+🚀 Author
+Renuka Bhardwaj
+Data Quality Developer | Data Analyst | Excel, SQL, Power BI Enthusiast
+📍 India | 🟦 LinkedIn- https://www.linkedin.com/in/renuka-bhardwaj-9b93b62a7/ | 💻 GitHub- https://github.com/bhardwajrenuka94?tab=repositories
