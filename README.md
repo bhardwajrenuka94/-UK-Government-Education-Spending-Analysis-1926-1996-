@@ -57,5 +57,6 @@ Guided by self-exploration and structured data analysis techniques
 
 🚀 Author
 Renuka Bhardwaj
-Data Quality Developer | Data Analyst | Excel, SQL, Power BI Enthusiast
+
+Data Analyst | Excel, SQL, Power BI Enthusiast
 📍 India | 🟦 LinkedIn- https://www.linkedin.com/in/renuka-bhardwaj-9b93b62a7/ | 💻 GitHub- https://github.com/bhardwajrenuka94?tab=repositories
